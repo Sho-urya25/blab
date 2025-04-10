@@ -1,0 +1,39 @@
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
+
+# iOS build artifacts
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral
+ios/Flutter/flutter_export_environment.sh
+ios/Flutter/flutter_export_environment.xcconfig
+ios/Flutter/flutter_assets
+ios/Flutter/Flutter.podspec
+ios/Flutter/FlutterPluginRegistrant
+ios/Flutter/FlutterPluginRegistrant.xcodeproj
+ios/Flutter/FlutterPluginRegistrant.xcworkspace
+ios/Flutter/FlutterPluginRegistrant/Classes
+ios/Flutter/FlutterPluginRegistrant/GeneratedPluginRegistrant.h
+ios/Flutter/FlutterPluginRegistrant/GeneratedPluginRegistrant.m
+ios/Flutter/FlutterPluginRegistrant/GeneratedPluginRegistrant.swift
+
+# Flutter build artifacts
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub
